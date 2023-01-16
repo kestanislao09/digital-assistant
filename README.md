@@ -1,29 +1,14 @@
 # digital-assistant
 
-This template should help get you started developing with Vue 3 in Vite.
+## Description
+This is a personal productivity web application that aims to bring useful features into one place, including Kanban styled project management, budget and habit tracking, and other things I may find helpful to my own daily life.
 
-## Recommended IDE Setup
+This app was built using Vue3 and TailwindCSS.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+## TODO:
+ - Project Management
+ - Budget Tracker
+ - Habit Tracker
+ - Baby Health Tracker
+ - NLP powered command bar / voice commands ?
+ - Cool name/theme
